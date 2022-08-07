@@ -1,0 +1,47 @@
+todo:   
+quests + items
+map world
+database
+player selection (diff skills?)
+
+resource:
+maplestory.wiki - mobs
+maplestory.design = players 
+orangemushroomblog - skills
+
+calc exp req:
+exp 1.2:lv10-515 lv20-3,194 lv 30-19,781 lv40-122,480
+100/120/144/172/207/248/298/358/429 ++= 2,076 / 30exp = 69monster
+515/619/743/891/1069/1283/1540/1848/2218/2662  ++= 13,388 / 100exp = 133monster
+3194/3833/4600/5520/6624/(25)7949/9539/11447/13737/16484/19781  ++= 102,708 
+20-25 == 23,771 / 200exp = 118monster           25-30 == 78,937 / 400exp = 197monster
+lv 30+ 1000exp
+
+
+fonts:
+['arial', 'arialblack', 'bahnschrift', 'calibri', 'cambria', 'cambriamath', 'candara', 'comicsansms', 'consolas', 'constantia', 'corbel', 'couriernew', 'ebrima',
+ 'franklingothicmedium', 'gabriola', 'gadugi', 'georgia', 'impact', 'inkfree', 'javanesetext', 'leelawadeeui', 'leelawadeeuisemilight', 'lucidaconsole', 'lucidasans',
+  'malgungothic', 'malgungothicsemilight', 'microsofthimalaya', 'microsoftjhenghei', 'microsoftjhengheiui', 'microsoftnewtailue', 'microsoftphagspa', 'microsoftsansserif',
+   'microsofttaile', 'microsoftyahei', 'microsoftyaheiui', 'microsoftyibaiti', 'mingliuextb', 'pmingliuextb', 'mingliuhkscsextb', 'mongolianbaiti', 'msgothic', 'msuigothic',
+    'mspgothic', 'mvboli', 'myanmartext', 'nirmalaui', 'nirmalauisemilight', 'palatinolinotype', 'segoemdl2assets', 'segoeprint', 'segoescript', 'segoeui', 'segoeuiblack',
+     'segoeuiemoji', 'segoeuihistoric', 'segoeuisemibold', 'segoeuisemilight', 'segoeuisymbol', 'simsun', 'nsimsun', 'simsunextb', 'sitkasmall', 'sitkatext', 'sitkasubheading',
+      'sitkaheading', 'sitkadisplay', 'sitkabanner', 'sylfaen', 'symbol', 'tahoma', 'timesnewroman', 'trebuchetms', 'verdana', 'webdings', 'wingdings', 'yugothic',
+       'yugothicuisemibold', 'yugothicui', 'yugothicmedium', 'yugothicuiregular', 'yugothicregular', 'yugothicuisemilight', 'aharoni', 'david', 'frankruehl', 'gisha', 
+       'levenim', 'miriam', 'miriamfixed', 'narkisim', 'rod', 'holomdl2assets', 'rogfonts', 'agencyfb', 'guttmanaharoni', 'algerian', 'bookantiqua', 'guttmanaram',
+        'arialrounded', 'baskervilleoldface', 'bauhaus93', 'bell', 'bernardcondensed', 'bodoni', 'bodoniblack', 'bodonicondensed', 'bodonipostercompressed',
+         'bookmanoldstyle', 'bradleyhanditc', 'britannic', 'berlinsansfb', 'berlinsansfbdemi', 'broadway', 'brushscript', 'bookshelfsymbol7', 'californianfb',
+          'calisto', 'castellar', 'centuryschoolbook', 'centaur', 'century', 'chiller', 'colonna', 'cooperblack', 'copperplategothic', 'curlz', 'guttmandrogolin',
+           'dubai', 'dubaimedium', 'dubairegular', 'elephant', 'engravers', 'erasitc', 'erasdemiitc', 'erasmediumitc', 'felixtitling', 'forte', 'franklingothicbook',
+            'franklingothicdemi', 'franklingothicdemicond', 'franklingothicheavy', 'franklingothicmediumcond', 'guttmanfrank', 'freestylescript', 'guttmanfrnew',
+             'frenchscript', 'footlight', 'garamond', 'guttmanhaim', 'guttmanhaimcondensed', 'gigi', 'gillsans', 'gillsanscondensed', 'gillsansultracondensed',
+              'gillsansultra', 'guttmankav', 'guttmankavlight', 'gloucesterextracondensed', 'gillsansextcondensed', 'guttmanmyamfix', 'centurygothic',
+               'goudyoldstyle', 'goudystout', 'guttmanyadbrush', 'guttmanyad', 'guttmanyadlight', 'hadassahfriedlaender', 'harlowsolid', 'harrington',
+ 'haettenschweiler', 'hightowertext', 'imprintshadow', 'informalroman', 'blackadderitc', 'edwardianscriptitc', 'kristenitc', 'jokerman', 'juiceitc',
+  'kunstlerscript', 'widelatin', 'lucidabright', 'lucidacalligraphy', 'lucidafaxregular', 'lucidafax', 'lucidahandwriting', 'guttmanlogo1', 
+  'lucidasansregular', 'lucidasansroman', 'lucidasanstypewriterregular', 'lucidasanstypewriter', 'lucidasanstypewriteroblique', 'magneto', 
+  'maiandragd', 'guttmanmantova', 'guttmanmantovadecor', 'maturascriptcapitals', 'guttmanmiryam', 'guttmancourmir', 'mistral', 'modernno20',
+   'monotypecorsiva', 'extra', 'niagaraengraved', 'niagarasolid', 'ocraextended', 'oldenglishtext', 'onyx', 'msoutlook', 'palacescript',
+    'papyrus', 'parchment', 'perpetua', 'perpetuatitling', 'playbill', 'poorrichard', 'pristina', 'rage', 'guttmanrashi', 'ravie', 'msreferencesansserif',
+     'msreferencespecialty', 'rockwellcondensed', 'rockwell', 'rockwellextra', 'script', 'showcardgothic', 'snapitc', 'guttmanstam', 'guttmanstam1',
+      'stencil', 'twcen', 'twcencondensed', 'twcencondensedextra', 'tempussansitc', 'guttmanhatzvi', 'guttmanvilna', 'vinerhanditc', 'vivaldi', 
+      'vladimirscript', 'wingdings2', 'wingdings3']
