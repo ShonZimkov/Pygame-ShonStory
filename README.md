@@ -19,4 +19,6 @@ hope youll enjoy it
 
 ![tutorial](https://user-images.githubusercontent.com/100130589/186418410-153bf106-2367-4531-9b5b-38a26426babf.png)
 
+![boss](https://user-images.githubusercontent.com/100130589/186418659-29f7073e-6873-44e7-aafc-01de596739e5.png)
 
+![map‏](https://user-images.githubusercontent.com/100130589/186420699-6196ee8a-e2b6-421d-92b5-9ccfb9f8fb64.png)
