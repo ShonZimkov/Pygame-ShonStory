@@ -21,4 +21,4 @@ hope youll enjoy it
 
 ![boss](https://user-images.githubusercontent.com/100130589/186418659-29f7073e-6873-44e7-aafc-01de596739e5.png)
 
-![map‏](https://user-images.githubusercontent.com/100130589/186420699-6196ee8a-e2b6-421d-92b5-9ccfb9f8fb64.png)
+![map](https://user-images.githubusercontent.com/100130589/186421104-699a7de3-f691-4713-b7b1-c740e3b10b33.png)
