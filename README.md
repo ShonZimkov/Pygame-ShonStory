@@ -16,3 +16,5 @@ there is a boss in the end that you can kill only if you become strong enough
 <!-- personal -->
 this game was my first game that i created it was a crazy learning journey , here i realized i love coding
 hope youll enjoy it
+
+![alt text](https://github.com/ShonZimkov/Pygame-ShonStory/blob/main/Japan.jpg?raw=true)
